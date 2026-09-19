@@ -1,1 +1,2 @@
-# parallel_computing
+# Parallel computing projects
+Familiarity with CUDA
